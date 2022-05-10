@@ -2,5 +2,5 @@
 
 ## 🗒 Etapes
 - [x] 3way Handshake (ouverture de la connexion)
-- [ ] Transfert de données
-- [ ] Fermeture de la connexion
+- [x] Transfert de données
+- [x] Fermeture de la connexion
